@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [mukul.expert](mukul.expert)
 - 😄 Pronouns: His/Her
 - ⚡ Fun fact: I am a Telecom Expert with Computer Expertise.
+
+
+
+<a href="https://github.com/mukul-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul-web&hide=php&theme=algolia" />
+</a>
