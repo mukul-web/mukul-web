@@ -6,12 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Internships
 - 🤔 I’m looking for help with CSS
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [mukul.expert](mukul.expert)
-- 😄 Pronouns: His/Her
 - ⚡ Fun fact: I am a Telecom Expert with Computer Expertise.
 
 
