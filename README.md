@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Internships
 - 🤔 I’m looking for help with CSS
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [mukul.expert](mukul.expert)
-- ⚡ Fun fact: I am a Telecom Expert with Computer Expertise.
+- 📫 How to reach me: [mukuldev.works](mukuldev.works)
+- ⚡ Fun fact: I am a Telecom Engineer with Computer Expertise.
 
 
 
